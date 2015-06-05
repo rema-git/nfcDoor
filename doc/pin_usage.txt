@@ -1,0 +1,11 @@
+orange   A5    I2C
+yellow   A4    I2C
+brown    Vin   +12V=
+black    Gnd   Ground
+red      5V    +5V=
+---------------------------
+blue     Gnd   LED  Ground
+green    D10   LED+ PWM
+---------------------------
+white    D3    MOSFET
+green    D2    IRQ
